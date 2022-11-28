@@ -1,7 +1,8 @@
 # DIP
 digital image processing with matlab (gonzalez)
 
-Here we have some codes for digital image processing using Matlab course.
+Here we have some codes for digital image processing using Matlab course. I wrote them about 4 years ago and now I would like to share them in git hub. But I can not remember what I wrote! :D
+
 HW0201: Zoom
 HW0202: Quantization
 HW0203: Zoom unzoom
